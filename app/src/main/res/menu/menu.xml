@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemReminder"
+        android:title="@string/add_reminder" />
+    <item
+        android:id="@+id/exportItem"
+        android:title="@string/export" />
+    <item
+        android:id="@+id/aboutUsItem"
+        android:title="@string/about_us" />
+
+</menu>
