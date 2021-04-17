@@ -13,6 +13,8 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 //comment
+//new comment
+
 class AddViewModel(
     val databaseDao: RecordsDatabaseDAO,
     application: Application
